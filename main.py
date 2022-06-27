@@ -43,5 +43,5 @@ async def pullscreenfake(ctx, *, text = "No text entered"):
 
   await ctx.send(file = discord.File("text.png"))
 
-token =("OTg5OTE2NTgzNzU1MzkwOTg2.GHvt31.mm1wSRvX1_7ba-bxXR3hmDxg2LMeBKI0noEv2w")
+token =("")
 bot.run(token)
